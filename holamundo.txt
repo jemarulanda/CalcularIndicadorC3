@@ -1,0 +1,2 @@
+CodigoCita|LocID|VendPurchaseOrderID|VendorOrgID|FechaCita|HoraCita|FechaIngreso|HoraIngreso|IndCumplio
+1006803|0020|1|80|2019-09-03 05:00:00|2019-09-03 05:00:00|||S
